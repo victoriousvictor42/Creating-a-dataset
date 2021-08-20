@@ -1,0 +1,1209 @@
+[
+  {
+    "title": "Academy Award Review of",
+    "Production company": "Walt Disney Productions",
+    "Release date": [
+      "May 19, 1937"
+    ],
+    "Running time": "41 minutes (74 minutes 1966 release)",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$45.472",
+    "Running time (int)": 41,
+    "Budget (float)": null,
+    "Box Office (float)": null,
+    "Release date (datetime)": null
+  },
+  {
+    "title": "Snow White and the Seven Dwarfs",
+    "Directed by": [
+      "David Hand",
+      "William Cottrell",
+      "Wilfred Jackson",
+      "Larry Morey",
+      "Perce Pearce",
+      "Ben Sharpsteen"
+    ],
+    "Written by": [
+      "Ted Sears",
+      "Richard Creedon",
+      "Otto Englander",
+      "Dick Rickard",
+      "Earl Hurd",
+      "Merrill De Maris",
+      "Dorothy Ann Blank",
+      "Webb Smith"
+    ],
+    "Based on": [
+      "Snow White",
+      "by The",
+      "Brothers Grimm"
+    ],
+    "Produced by": "Walt Disney",
+    "Starring": [
+      "Adriana Caselotti",
+      "Lucille La Verne",
+      "Harry Stockwell",
+      "Roy Atwell",
+      "Pinto Colvig",
+      "Otis Harlan",
+      "Scotty Mattraw",
+      "Billy Gilbert",
+      "Eddie Collins",
+      "Moroni Olsen",
+      "Stuart Buchanan"
+    ],
+    "Music by": [
+      "Frank Churchill",
+      "Paul Smith",
+      "Leigh Harline"
+    ],
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "RKO Radio Pictures",
+    "Release date": [
+      "December 21, 1937 ( Carthay Circle Theatre )"
+    ],
+    "Running time": "83 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$1.49 million",
+    "Box office": "$418 million",
+    "Running time (int)": 83,
+    "Budget (float)": 1490000.0,
+    "Box Office (float)": null,
+    "Release date (datetime)": null
+  },
+  {
+    "title": "Pinocchio",
+    "Directed by": [
+      "Ben Sharpsteen",
+      "Hamilton Luske",
+      "Bill Roberts",
+      "Norman Ferguson",
+      "Jack Kinney",
+      "Wilfred Jackson",
+      "T. Hee"
+    ],
+    "Story by": [
+      "Ted Sears",
+      "Otto Englander",
+      "Webb Smith",
+      "William Cottrell",
+      "Joseph Sabo",
+      "Erdman Penner",
+      "Aurelius Battaglia"
+    ],
+    "Based on": [
+      "The Adventures of Pinocchio",
+      "by",
+      "Carlo Collodi"
+    ],
+    "Produced by": "Walt Disney",
+    "Starring": [
+      "Cliff Edwards",
+      "Dickie Jones",
+      "Christian Rub",
+      "Walter Catlett",
+      "Charles Judels",
+      "Evelyn Venable",
+      "Frankie Darro"
+    ],
+    "Music by": [
+      "Leigh Harline",
+      "Paul J. Smith"
+    ],
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "RKO Radio Pictures",
+    "Release date": [
+      "February 7, 1940 ( Center Theatre )",
+      "February 23, 1940 (United States)"
+    ],
+    "Running time": "88 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$2.6 million",
+    "Box office": "$164 million",
+    "Running time (int)": 88,
+    "Budget (float)": 2600000.0,
+    "Box Office (float)": null,
+    "Release date (datetime)": null
+  },
+  {
+    "title": "Fantasia",
+    "Directed by": [
+      "Samuel Armstrong",
+      "James Algar",
+      "Bill Roberts",
+      "Paul Satterfield",
+      "Ben Sharpsteen",
+      "David D. Hand",
+      "Hamilton Luske",
+      "Jim Handley",
+      "Ford Beebe",
+      "T. Hee",
+      "Norman Ferguson",
+      "Wilfred Jackson"
+    ],
+    "Story by": [
+      "Joe Grant",
+      "Dick Huemer"
+    ],
+    "Produced by": [
+      "Walt Disney",
+      "Ben Sharpsteen"
+    ],
+    "Starring": [
+      "Leopold Stokowski",
+      "Deems Taylor"
+    ],
+    "Narrated by": "Deems Taylor",
+    "Cinematography": "James Wong Howe",
+    "Music by": "See program",
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "RKO Radio Pictures",
+    "Release date": [
+      "November 13, 1940"
+    ],
+    "Running time": "126 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$2.28 million",
+    "Box office": "$76.4–$83.3 million (United States and Canada)",
+    "Running time (int)": 126,
+    "Budget (float)": 2280000.0,
+    "Box Office (float)": null,
+    "Release date (datetime)": null
+  },
+  {
+    "title": "The Reluctant Dragon",
+    "Directed by": [
+      "Alfred Werker",
+      "(live action)",
+      "Hamilton Luske",
+      "(animation)",
+      "Jack Cutting",
+      ",",
+      "Ub Iwerks",
+      ",",
+      "Jack Kinney",
+      "(sequence directors)"
+    ],
+    "Written by": [
+      "Live-action:",
+      "Ted Sears",
+      "Al Perkins",
+      "Larry Clemmons",
+      "Bill Cottrell",
+      "Harry Clork",
+      "Robert Benchley",
+      "The Reluctant Dragon",
+      "segment:",
+      "Kenneth Grahame",
+      "(original book)",
+      "Erdman Penner",
+      "T. Hee",
+      "Baby Weems",
+      "segment:",
+      "Joe Grant",
+      "Dick Huemer",
+      "John Miller"
+    ],
+    "Produced by": "Walt Disney",
+    "Starring": [
+      "Robert Benchley",
+      "Frances Gifford",
+      "Buddy Pepper",
+      "Nana Bryant"
+    ],
+    "Cinematography": "Bert Glennon",
+    "Edited by": "Paul Weatherwax",
+    "Music by": [
+      "Frank Churchill",
+      "Larry Morey"
+    ],
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "RKO Radio Pictures",
+    "Release date": [
+      "June 27, 1941"
+    ],
+    "Running time": "74 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$600,000",
+    "Box office": "$960,000 (worldwide rentals)",
+    "Running time (int)": 74,
+    "Budget (float)": 600000.0,
+    "Box Office (float)": null,
+    "Release date (datetime)": null
+  },
+  {
+    "title": "Dumbo",
+    "Directed by": [
+      "Ben Sharpsteen",
+      "Norman Ferguson",
+      "Wilfred Jackson",
+      "Bill Roberts",
+      "Jack Kinney",
+      "Samuel Armstrong"
+    ],
+    "Story by": [
+      "Otto Englander",
+      "Joe Grant",
+      "Dick Huemer"
+    ],
+    "Based on": [
+      "Dumbo, the Flying Elephant",
+      "by",
+      "Helen Aberson",
+      "Harold Pearl"
+    ],
+    "Produced by": "Walt Disney",
+    "Starring": [
+      "Edward Brophy",
+      "Verna Felton",
+      "Cliff Edwards",
+      "Herman Bing",
+      "Sterling Holloway",
+      "Margaret Wright",
+      "Hall Johnson Choir"
+    ],
+    "Narrated by": "John McLeish",
+    "Music by": [
+      "Frank Churchill",
+      "Oliver Wallace"
+    ],
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "RKO Radio Pictures",
+    "Release date": [
+      "October 23, 1941 (New York City)",
+      "October 31, 1941 (U.S.)"
+    ],
+    "Running time": "64 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$950,000",
+    "Box office": ">$1.3 million (est. United States/Canada rentals, 1941)",
+    "Running time (int)": 64,
+    "Budget (float)": 950000.0,
+    "Box Office (float)": null,
+    "Release date (datetime)": null
+  },
+  {
+    "title": "Bambi",
+    "Directed by": [
+      "Supervising director",
+      "David Hand",
+      "Sequence directors",
+      "James Algar",
+      "Samuel Armstrong",
+      "Graham Heid",
+      "Bill Roberts",
+      "Paul Satterfield",
+      "Norman Wright"
+    ],
+    "Story by": [
+      "Story direction",
+      "Perce Pearce",
+      "Story adaptation",
+      "Larry Morey",
+      "Story development",
+      "Vernon Stallings",
+      "Melvin Shaw",
+      "Carl Fallberg",
+      "Chuck Couch",
+      "Ralph Wright"
+    ],
+    "Based on": [
+      "Bambi, a Life in the Woods",
+      "by",
+      "Felix Salten"
+    ],
+    "Produced by": "Walt Disney",
+    "Starring": "see below",
+    "Music by": [
+      "Frank Churchill",
+      "Edward H. Plumb"
+    ],
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "RKO Radio Pictures",
+    "Release date": [
+      "August 9, 1942 (World Premiere – London)",
+      "August 13, 1942 (Premiere – New York City)",
+      "August 21, 1942 (U.S.)"
+    ],
+    "Running time": "70 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$858,000",
+    "Box office": "$267.4 million",
+    "Running time (int)": 70,
+    "Budget (float)": 858000.0,
+    "Box Office (float)": null,
+    "Release date (datetime)": null
+  },
+  {
+    "title": "Saludos Amigos",
+    "Directed by": [
+      "Norman Ferguson",
+      "Wilfred Jackson",
+      "Jack Kinney",
+      "Hamilton Luske",
+      "Bill Roberts"
+    ],
+    "Story by": [
+      "Homer Brightman",
+      "William Cottrell",
+      "Richard Huemer",
+      "Joe Grant",
+      "Harold Reeves",
+      "Ted Sears",
+      "Webb Smith",
+      "Roy Williams",
+      "Ralph Wright"
+    ],
+    "Produced by": "Walt Disney",
+    "Starring": [
+      "Lee Blair",
+      "Mary Blair",
+      "Pinto Colvig",
+      "Walt Disney",
+      "Norman Ferguson",
+      "Frank Graham",
+      "Clarence Nash",
+      "José Oliveira",
+      "Frank Thomas"
+    ],
+    "Narrated by": "Fred Shields",
+    "Music by": [
+      "Paul Smith",
+      "Edward H. Plumb"
+    ],
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "RKO Radio Pictures",
+    "Release date": [
+      "August 24, 1942 (World Premiere – Rio de Janeiro)",
+      "February 6, 1943 (U.S. Premiere – Boston)",
+      "February 19, 1943 (U.S.)"
+    ],
+    "Running time": "42 minutes",
+    "Country": "United States",
+    "Languages": [
+      "English",
+      "Portuguese",
+      "Spanish"
+    ],
+    "Box office": "$1.135 million (worldwide rentals)",
+    "Running time (int)": 42,
+    "Budget (float)": null,
+    "Box Office (float)": null,
+    "Release date (datetime)": null
+  },
+  {
+    "title": "Victory Through Air Power",
+    "Directed by": [
+      "Animated sequences:",
+      "James Algar",
+      "Clyde Geronimi",
+      "Jack Kinney",
+      "de Seversky scenes:",
+      "H.C. Potter"
+    ],
+    "Written by": [
+      "Story direction:",
+      "Perce Pearce",
+      "Story adaptation:",
+      "T. Hee",
+      "Erdman Penner",
+      "Bill Cottrell",
+      "James Brodero",
+      "George Stallings",
+      "Jose Rodriguez"
+    ],
+    "Based on": "Victory Through Air Power by Maj. Alexander P. Seversky",
+    "Produced by": "Walt Disney",
+    "Starring": "Alexander de Seversky",
+    "Narrated by": "Art Baker",
+    "Cinematography": "Ray Rennahan",
+    "Edited by": "Jack Dennis",
+    "Music by": [
+      "Edward H. Plumb",
+      "Paul J. Smith",
+      "Oliver Wallace"
+    ],
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "United Artists",
+    "Release date": [
+      "July 17, 1943"
+    ],
+    "Running time": "70 min",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$788,000",
+    "Box office": "$799,000",
+    "Running time (int)": 70,
+    "Budget (float)": 788000.0,
+    "Box Office (float)": null,
+    "Release date (datetime)": null
+  },
+  {
+    "title": "The Three Caballeros",
+    "Directed by": [
+      "Norman Ferguson",
+      "Clyde Geronimi",
+      "Jack Kinney",
+      "Bill Roberts",
+      "Harold Young"
+    ],
+    "Story by": [
+      "Homer Brightmen",
+      "Ernest Terrazas",
+      "Ted Sears",
+      "Bill Peet",
+      "Ralph Wright",
+      "Elmer Plummer",
+      "Roy Williams",
+      "William Cottrell",
+      "Del Connell",
+      "James Bodrero"
+    ],
+    "Produced by": "Walt Disney",
+    "Starring": [
+      "Clarence Nash",
+      "José Oliveira",
+      "Joaquin Garay"
+    ],
+    "Music by": [
+      "Edward H. Plumb",
+      "Paul J. Smith",
+      "Charles Wolcott"
+    ],
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "RKO Radio Pictures",
+    "Release date": [
+      "December 21, 1944 (Mexico City)",
+      "February 3, 1945 (US)"
+    ],
+    "Running time": "71 minutes",
+    "Country": "United States",
+    "Languages": [
+      "English",
+      "Spanish",
+      "Portuguese"
+    ],
+    "Box office": "$3.355 million (worldwide rentals)",
+    "Running time (int)": 71,
+    "Budget (float)": null,
+    "Box Office (float)": null,
+    "Release date (datetime)": null
+  },
+  {
+    "title": "Make Mine Music",
+    "Directed by": [
+      "Jack Kinney",
+      "Clyde Geronimi",
+      "Hamilton Luske",
+      "Joshua Meador",
+      "Robert Cormack"
+    ],
+    "Story by": [
+      "James Bodrero",
+      "Homer Brightman",
+      "Erwin Graham",
+      "Eric Gurney",
+      "T. Hee",
+      "Sylvia Holland",
+      "Dick Huemer",
+      "Dick Kelsey",
+      "Dick Kinney",
+      "Jesse Marsh",
+      "Tom Oreb",
+      "Cap Palmer",
+      "Erdman Penner",
+      "Dick Shaw",
+      "Harry Reeves",
+      "John Walbridge",
+      "Roy Williams"
+    ],
+    "Based on": [
+      "\"",
+      "Casey at the Bat",
+      "\"",
+      "by",
+      "Ernest Thayer",
+      "Peter and the Wolf",
+      "by",
+      "Sergei Prokofiev"
+    ],
+    "Produced by": "Walt Disney",
+    "Starring": "Nelson Eddy",
+    "Music by": [
+      "Eliot Daniel",
+      "Ken Darby",
+      "Charles Wolcott",
+      "Oliver Wallace",
+      "Edward Plumb"
+    ],
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "RKO Radio Pictures, Inc.",
+    "Release date": [
+      "April 20, 1946 (New York City premiere)",
+      "August 15, 1946 (U.S.)"
+    ],
+    "Running time": "75 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$1.35 million",
+    "Box office": "$3.275 million (worldwide rentals)",
+    "Running time (int)": 75,
+    "Budget (float)": 1350000.0,
+    "Box Office (float)": null,
+    "Release date (datetime)": null
+  },
+  {
+    "title": "Song of the South",
+    "Directed by": [
+      "Live action:",
+      "Harve Foster",
+      "Animation:",
+      "Wilfred Jackson"
+    ],
+    "Screenplay by": [
+      "Live action:",
+      "Morton Grant",
+      "Maurice Rapf",
+      "Dalton S. Reymond",
+      "Animation:",
+      "Bill Peet",
+      "George Stallings",
+      "Ralph Wright"
+    ],
+    "Based on": [
+      "Uncle Remus",
+      "by",
+      "Joel Chandler Harris"
+    ],
+    "Produced by": "Walt Disney",
+    "Starring": [
+      "James Baskett",
+      "Bobby Driscoll",
+      "Luana Patten",
+      "Ruth Warrick",
+      "Hattie McDaniel"
+    ],
+    "Cinematography": "Gregg Toland",
+    "Edited by": "William M. Morgan",
+    "Music by": [
+      "Edward Plumb",
+      "Daniele Amfitheatrof",
+      "Paul J. Smith",
+      "Charles Wolcott"
+    ],
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "RKO Radio Pictures",
+    "Release date": [
+      "November 12, 1946 (Premiere: Atlanta, Georgia)",
+      "November 20, 1946",
+      "March 30, 1947 (Stanford Theatre, Palo Alto, California)"
+    ],
+    "Running time": "94 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$2.125 million",
+    "Box office": "$65 million",
+    "Running time (int)": 94,
+    "Budget (float)": 2125000.0,
+    "Box Office (float)": null,
+    "Release date (datetime)": null
+  },
+  {
+    "title": "Fun and Fancy Free",
+    "Directed by": [
+      "Jack Kinney (animation)",
+      "Bill Roberts (animation)",
+      "Hamilton Luske (animation)",
+      "William Morgan"
+    ],
+    "Story by": [
+      "Homer Brightman",
+      "Eldon Dedini",
+      "Lance Nolley",
+      "Tom Oreb",
+      "Harry Reeves",
+      "Ted Sears"
+    ],
+    "Based on": [
+      "Sinclair Lewis ( Bongo )",
+      "Jack and the Beanstalk ( Mickey and the Beanstalk )"
+    ],
+    "Produced by": "Walt Disney",
+    "Starring": [
+      "Cliff Edwards",
+      "Edgar Bergen",
+      "Luana Patten",
+      "Walt Disney",
+      "Clarence Nash",
+      "Pinto Colvig",
+      "Billy Gilbert",
+      "Anita Gordon"
+    ],
+    "Narrated by": [
+      "Dinah Shore ( Bongo )",
+      "Edgar Bergen ( Mickey and the Beanstalk )"
+    ],
+    "Edited by": "Jack Bachom",
+    "Music by": [
+      "Oliver Wallace",
+      "Paul Smith",
+      "Eliot Daniel",
+      "Charles Wolcott"
+    ],
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "RKO Radio Pictures",
+    "Release date": [
+      "September 27, 1947"
+    ],
+    "Running time": "73 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$3.165 million (worldwide rentals)",
+    "Running time (int)": 73,
+    "Budget (float)": null,
+    "Box Office (float)": null,
+    "Release date (datetime)": null
+  },
+  {
+    "title": "Melody Time",
+    "Directed by": [
+      "Jack Kinney",
+      "Clyde Geronimi",
+      "Hamilton Luske",
+      "Wilfred Jackson"
+    ],
+    "Written by": [
+      "Winston Hibler",
+      "Harry Reeves",
+      "Ken Anderson",
+      "Erdman Penner",
+      "Homer Brightman",
+      "Ted Sears",
+      "Joe Rinaldi",
+      "Bill Cottrell",
+      "Jesse Marsh",
+      "Art Scott",
+      "Bob Moore",
+      "John Walbridge"
+    ],
+    "Produced by": "Walt Disney",
+    "Starring": [
+      "Roy Rogers",
+      "Trigger",
+      "Dennis Day",
+      "The Andrews Sisters",
+      "Fred Waring and the Pennsylvanians",
+      "Freddy Martin",
+      "Ethel Smith",
+      "Frances Langford",
+      "Buddy Clark",
+      "Bob Nolan",
+      "Sons of the Pioneers",
+      "The Dinning Sisters",
+      "Bobby Driscoll",
+      "Luana Patten"
+    ],
+    "Edited by": [
+      "Donald Halliday",
+      "Thomas Scott"
+    ],
+    "Music by": [
+      "Eliot Daniel",
+      "Paul J. Smith",
+      "Ken Darby"
+    ],
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "RKO Radio Pictures, Inc.",
+    "Release date": "May 27, 1948",
+    "Running time": "75 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$1.5 million",
+    "Box office": "$2.56 million (worldwide rentals)",
+    "Running time (int)": 75,
+    "Budget (float)": 1500000.0,
+    "Box Office (float)": null,
+    "Release date (datetime)": null
+  },
+  {
+    "title": "So Dear to My Heart",
+    "Directed by": [
+      "Harold D. Schuster",
+      "Hamilton Luske"
+    ],
+    "Written by": [
+      "Ken Anderson",
+      "John Tucker Battle",
+      "Marc Davis",
+      "Bill Peet",
+      "Maurice Rapf",
+      "Ted Sears"
+    ],
+    "Based on": [
+      "Midnight and Jeremiah",
+      "by",
+      "Sterling North"
+    ],
+    "Produced by": [
+      "Walt Disney",
+      "Perce Pearce"
+    ],
+    "Starring": [
+      "Bobby Driscoll",
+      "Luana Patten",
+      "Beulah Bondi",
+      "Burl Ives"
+    ],
+    "Cinematography": "Winton C. Hoch",
+    "Edited by": [
+      "Lloyd L. Richardson",
+      "Thomas Scott"
+    ],
+    "Music by": "Paul Smith",
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "RKO Radio Pictures, Inc.",
+    "Release date": [
+      "November 29, 1948 (Chicago, Illinois)",
+      "January 19, 1949 (Indianapolis, Indiana)"
+    ],
+    "Running time": "82 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$1.5 million",
+    "Box office": "$3.7 million (U.S. rental) $575,000 (foreign rental)",
+    "Running time (int)": 82,
+    "Budget (float)": 1500000.0,
+    "Box Office (float)": null,
+    "Release date (datetime)": null
+  },
+  {
+    "title": "The Adventures of Ichabod and Mr. Toad",
+    "Directed by": [
+      "Jack Kinney",
+      "Clyde Geronimi",
+      "James Algar",
+      "Ben Sharpsteen (production supervisor)"
+    ],
+    "Story by": [
+      "Erdman Penner",
+      "Winston Hibler",
+      "Joe Rinaldi",
+      "Ted Sears",
+      "Homer Brightman",
+      "Harry Reeves"
+    ],
+    "Based on": [
+      "The Wind in the Willows",
+      "by",
+      "Kenneth Grahame",
+      "The Legend of Sleepy Hollow",
+      "by",
+      "Washington Irving"
+    ],
+    "Produced by": "Walt Disney",
+    "Starring": [
+      "Eric Blore",
+      "J. Pat O'Malley",
+      "Colin Campbell",
+      "John McLeish",
+      "Campbell Grant",
+      "Claude Allister",
+      "Leslie Denison",
+      "Edmond Stevens",
+      "The Rhythmaires"
+    ],
+    "Narrated by": [
+      "Basil Rathbone ( The Wind in the Willows )",
+      "Bing Crosby ( The Legend of Sleepy Hollow )"
+    ],
+    "Edited by": "John O. Young",
+    "Music by": "Oliver Wallace",
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "RKO Radio Pictures",
+    "Release date": [
+      "October 5, 1949"
+    ],
+    "Running time": "68 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Box office": "$1.625 million (worldwide rentals)",
+    "Running time (int)": 68,
+    "Budget (float)": null,
+    "Box Office (float)": null,
+    "Release date (datetime)": null
+  },
+  {
+    "title": "Cinderella",
+    "Directed by": [
+      "Clyde Geronimi",
+      "Hamilton Luske",
+      "Wilfred Jackson"
+    ],
+    "Story by": [
+      "Ken Anderson",
+      "Perce Pearce",
+      "Homer Brightman",
+      "Winston Hibler",
+      "Bill Peet",
+      "Erdman Penner",
+      "Harry Reeves",
+      "Joe Rinaldi",
+      "Ted Sears",
+      "Maurice Rapf (uncredited)"
+    ],
+    "Based on": [
+      "Cinderella",
+      "by",
+      "Charles Perrault"
+    ],
+    "Produced by": "Walt Disney",
+    "Starring": [
+      "Ilene Woods",
+      "Eleanor Audley",
+      "Verna Felton",
+      "Rhoda Williams",
+      "James MacDonald",
+      "Luis van Rooten",
+      "Don Barclay",
+      "Mike Douglas",
+      "William Phipps",
+      "Lucille Bliss"
+    ],
+    "Narrated by": "Betty Lou Gerson",
+    "Edited by": "Donald Halliday",
+    "Music by": [
+      "Oliver Wallace",
+      "Paul J. Smith"
+    ],
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "RKO Radio Pictures",
+    "Release date": [
+      "February 15, 1950 (Boston)",
+      "March 4, 1950 (United States)"
+    ],
+    "Running time": "74 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$2.2 million",
+    "Box office": "$263.6 million",
+    "Running time (int)": 74,
+    "Budget (float)": 2200000.0,
+    "Box Office (float)": null,
+    "Release date (datetime)": null
+  },
+  {
+    "title": "Treasure Island",
+    "Directed by": "Byron Haskin",
+    "Written by": "Lawrence Edward Watkin",
+    "Based on": [
+      "Treasure Island",
+      "by",
+      "Robert Louis Stevenson"
+    ],
+    "Produced by": [
+      "Walt Disney",
+      "Perce Pearce"
+    ],
+    "Starring": [
+      "Bobby Driscoll",
+      "Robert Newton",
+      "Basil Sydney",
+      "Finlay Currie"
+    ],
+    "Cinematography": "Freddie Young",
+    "Edited by": "Alan Jaggs",
+    "Music by": "Clifton Parker",
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "RKO Radio Pictures",
+    "Release date": [
+      "June 22, 1950 (World Premiere- London )",
+      "July 29, 1950 ( US )"
+    ],
+    "Running time": "96 minutes",
+    "Countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "Language": "English",
+    "Budget": "$1,800,000",
+    "Box office": "$4,100,000 (worldwide rentals)",
+    "Running time (int)": 96,
+    "Budget (float)": 1800000.0,
+    "Box Office (float)": null,
+    "Release date (datetime)": null
+  },
+  {
+    "title": "Alice in Wonderland",
+    "Directed by": [
+      "Clyde Geronimi",
+      "Wilfred Jackson",
+      "Hamilton Luske"
+    ],
+    "Story by": [
+      "Winston Hibler",
+      "Ted Sears",
+      "Bill Peet",
+      "Erdman Penner",
+      "Joe Rinaldi",
+      "Milt Banta",
+      "Bill Cottrell",
+      "Dick Kelsey",
+      "Joe Grant",
+      "Dick Huemer",
+      "Del Connell",
+      "Tom Oreb",
+      "John Walbridge"
+    ],
+    "Based on": [
+      "Alice's Adventures in Wonderland",
+      "and",
+      "Through the Looking-Glass",
+      "by",
+      "Lewis Carroll"
+    ],
+    "Produced by": "Walt Disney",
+    "Starring": [
+      "Kathryn Beaumont",
+      "Ed Wynn",
+      "Richard Haydn",
+      "Sterling Holloway",
+      "Jerry Colonna",
+      "Verna Felton",
+      "J. Pat O'Malley",
+      "Bill Thompson",
+      "Joseph Kearns",
+      "Dink Trout",
+      "James MacDonald"
+    ],
+    "Edited by": "Lloyd Richardson",
+    "Music by": [
+      "Oliver Wallace",
+      "Paul J. Smith"
+    ],
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "RKO Radio Pictures",
+    "Release date": [
+      "July 26, 1951 (London, premiere)",
+      "July 28, 1951 (New York City, premiere)"
+    ],
+    "Running time": "75 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$3 million",
+    "Box office": [
+      "$2.4 million (1951, domestic)",
+      "$3.5 million (1974, domestic)"
+    ],
+    "Running time (int)": 75,
+    "Budget (float)": 3000000.0,
+    "Box Office (float)": null,
+    "Release date (datetime)": null
+  },
+  {
+    "title": "The Story of Robin Hood",
+    "Directed by": "Ken Annakin",
+    "Written by": "Lawrence Edward Watkin",
+    "Produced by": [
+      "Perce Pearce",
+      "Walt Disney"
+    ],
+    "Starring": [
+      "Richard Todd",
+      "Joan Rice",
+      "Peter Finch"
+    ],
+    "Cinematography": "Guy Green",
+    "Music by": "Clifton Parker",
+    "Production companies": [
+      "Walt Disney Productions",
+      "RKO Radio Pictures, Inc."
+    ],
+    "Distributed by": "RKO Radio Pictures, Inc.",
+    "Release date": [
+      "March 13, 1952 (Premiere- London )",
+      "June 26, 1952 ( US )"
+    ],
+    "Running time": "84 minutes",
+    "Countries": [
+      "United States",
+      "United Kingdom"
+    ],
+    "Language": "English",
+    "Box office": "$2.1 million (US rentals)",
+    "Running time (int)": 84,
+    "Budget (float)": null,
+    "Box Office (float)": null,
+    "Release date (datetime)": null
+  },
+  {
+    "title": "Peter Pan",
+    "Directed by": [
+      "Clyde Geronimi",
+      "Wilfred Jackson",
+      "Hamilton Luske"
+    ],
+    "Story by": [
+      "Milt Banta",
+      "Bill Cottrell",
+      "Winston Hibler",
+      "Bill Peet",
+      "Erdman Penner",
+      "Joe Rinaldi",
+      "Ted Sears",
+      "Ralph Wright"
+    ],
+    "Based on": [
+      "Peter and Wendy",
+      "by",
+      "J. M. Barrie"
+    ],
+    "Produced by": "Walt Disney",
+    "Starring": [
+      "Bobby Driscoll",
+      "Kathryn Beaumont",
+      "Hans Conried",
+      "Paul Collins"
+    ],
+    "Narrated by": "Tom Conway",
+    "Music by": "Oliver Wallace",
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "RKO Radio Pictures",
+    "Release date": [
+      "February 5, 1953 (United States)"
+    ],
+    "Running time": "77 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$4 million",
+    "Box office": "$87.4 million (United States and Canada)",
+    "Running time (int)": 77,
+    "Budget (float)": 4000000.0,
+    "Box Office (float)": null,
+    "Release date (datetime)": null
+  },
+  {
+    "title": "The Sword and the Rose",
+    "Directed by": "Ken Annakin",
+    "Written by": [
+      "Lawrence Edward Watkin",
+      "(screenplay)",
+      "Charles Major",
+      "(novel \"When Knighthood was in Flower\")"
+    ],
+    "Produced by": [
+      "Perce Pearce",
+      "Walt Disney"
+    ],
+    "Starring": [
+      "Glynis Johns",
+      "James Robertson Justice",
+      "Richard Todd",
+      "Michael Gough",
+      "Jane Barrett",
+      "Peter Copley",
+      "Ernest Jay",
+      "Jean Mercure",
+      "D. A. Clarke-Smith",
+      "Gérard Oury",
+      "Fernand Fabre",
+      "Gaston Richer",
+      "Rosalie Crutchley",
+      "Bryan Coleman"
+    ],
+    "Cinematography": "Geoffrey Unsworth",
+    "Edited by": "Gerald Thomas",
+    "Music by": "Clifton Parker",
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "RKO Radio Pictures",
+    "Release date": [
+      "July 23, 1953 ('US )"
+    ],
+    "Running time": "92 minutes",
+    "Countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "Language": "English",
+    "Budget": "$2 million",
+    "Box office": "$1 million (US)",
+    "Running time (int)": 92,
+    "Budget (float)": 2000000.0,
+    "Box Office (float)": null,
+    "Release date (datetime)": null
+  },
+  {
+    "title": "The Living Desert",
+    "Directed by": "James Algar",
+    "Written by": [
+      "James Algar",
+      "Winston Hibler"
+    ],
+    "Produced by": [
+      "Ben Sharpsteen",
+      "Walt Disney"
+    ],
+    "Narrated by": "Winston Hibler",
+    "Cinematography": [
+      "Robert H. Crandall",
+      "N. Paul Kenworthy"
+    ],
+    "Edited by": "Norman R. Palmer",
+    "Music by": "Paul J. Smith",
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "Buena Vista Distribution",
+    "Release date": [
+      "November 10, 1953"
+    ],
+    "Running time": "69 minutes",
+    "Country": "United States",
+    "Language": "English",
+    "Budget": "$300,000",
+    "Box office": "$2.6 million (US)",
+    "Running time (int)": 69,
+    "Budget (float)": 300000.0,
+    "Box Office (float)": null,
+    "Release date (datetime)": null
+  },
+  {
+    "title": "Rob Roy: The Highland Rogue",
+    "Directed by": "Harold French",
+    "Written by": "Lawrence Edward Watkin",
+    "Produced by": [
+      "Perce Pearce",
+      "Walt Disney"
+    ],
+    "Starring": [
+      "Richard Todd",
+      "Glynis Johns",
+      "James Robertson Justice",
+      "Michael Gough",
+      "Finlay Currie",
+      "Geoffrey Keen"
+    ],
+    "Cinematography": "Guy Green",
+    "Edited by": "Geoffrey Foot",
+    "Music by": "Cedric Thorpe Davie",
+    "Production company": "Walt Disney Productions",
+    "Distributed by": "RKO Radio Pictures",
+    "Release date": [
+      "26 October 1953 (Premiere- London )",
+      "27 February 1954 ( US )"
+    ],
+    "Running time": "81 minutes",
+    "Countries": [
+      "United Kingdom",
+      "United States"
+    ],
+    "Language": "English",
+    "Budget": "$1.8 million",
+    "Running time (int)": 81,
+    "Budget (float)": 1800000.0,
+    "Box Office (float)": null,
+    "Release date (datetime)": 
